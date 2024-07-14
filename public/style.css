@@ -11,8 +11,8 @@ body {
 }
 .back-arrow {
     position: absolute;
-    top: 20px; /* Adjusted to position inside the form container */
-    left: 20px; /* Adjusted to position inside the form container */
+    top: 20px; 
+    left: 20px; 
     font-size: 24px;
     text-decoration: none;
     color: #9c88ff;
